@@ -120,3 +120,6 @@ type Post {
   author: Person!
 }
 ```
+
+## Resolver Functions
+Resolver functions fetch the data for its field.
